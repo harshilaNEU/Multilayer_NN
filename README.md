@@ -52,7 +52,9 @@ Sample images from each class of the CIFAR-10 dataset is shown below:
 
 ![Original CIFAR-10 dataset](https://github.com/harshilaNEU/Neural_Networks/blob/Training_Sets/Reference_Images/Downloaded_CIFAR-10_data.png)
 
-## Output of Generated Prototype
+## Output of Generated Prototype 
+
+Uploaded all training set images in prototype_generated.zip
 
 ![Generated_Prototype](https://github.com/harshilaNEU/Neural_Networks/blob/Training_Sets/Reference_Images/output.png)
 
