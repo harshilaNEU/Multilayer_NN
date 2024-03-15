@@ -45,7 +45,7 @@ Sample images from each class of the CIFAR-10 dataset is shown below:
 ## Steps to generate the training set
 
 1. Take clone of repository.
-2. Locate jupyter_notebook "Code/Prototype/generate_prototype_cifar_10.ipynb" in Code/Prototype/generate_prototype_cifar_10.ipynb
+2. Locate jupyter_notebook "generate_prototype_cifar_10.ipynb"
 3. Run the notebook "generate_prototype_cifar_10.ipynb"
 
 ## Downloaded CIFAR-10 dataset
