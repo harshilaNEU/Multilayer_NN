@@ -26,7 +26,7 @@ Model: (10/ReLU) – (8/ReLU)² – (4/ReLU) – (1/Sigmoid)
 
 ![Model Deep Neural network](https://github.com/harshilaNEU/Multilayer_NN/blob/main/Output/output.png)
 
-## Task 2: Develop a traning set
+## Task 2: Develop a training set
 
 Choose objects to train the network and develop a training set.
 
