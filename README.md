@@ -42,12 +42,11 @@ Sample images from each class of the CIFAR-10 dataset is shown below:
 
 1. Took 10% of the of Train dataset, 1% of each class 'airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck'. So considered 5000 images.
 
-## Steps to generate the prototype of train, validate, test
+## Steps to generate the training set
 
 1. Take clone of repository.
-2. switch to branch "Training_Sets"
-3. Locate jupyter_notebook "Code/Prototype/generate_prototype_cifar_10.ipynb" in Code/Prototype/generate_prototype_cifar_10.ipynb
-4. Run the notebook "generate_prototype_cifar_10.ipynb"
+2. Locate jupyter_notebook "Code/Prototype/generate_prototype_cifar_10.ipynb" in Code/Prototype/generate_prototype_cifar_10.ipynb
+3. Run the notebook "generate_prototype_cifar_10.ipynb"
 
 ## Downloaded CIFAR-10 dataset
 
