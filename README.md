@@ -1,5 +1,10 @@
 # Lab 1 – Develop a Multilayer (Deep) Neural Network
 
+## Pre-requisite
+
+1. Visual Studio Code
+2. Python
+
 # Requirement
 
 ## Task 1: Develop a Multilayer Neural Network
@@ -25,7 +30,4 @@ Model: (10/ReLU) – (8/ReLU)² – (4/ReLU) – (1/Sigmoid)
 
 Choose objects to train the network and develop a training set.
 
-## Pre-requisite
 
-1. Visual Studio Code
-2. Python
