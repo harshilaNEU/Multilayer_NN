@@ -30,4 +30,36 @@ Model: (10/ReLU) – (8/ReLU)² – (4/ReLU) – (1/Sigmoid)
 
 Choose objects to train the network and develop a training set.
 
+## Dataset
+CIFAR-10 is a dataset consisting of 60000, 32×32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images. More details about the datset can be found [here](https://www.cs.toronto.edu/~kriz/cifar.html).
+
+Sample images from each class of the CIFAR-10 dataset is shown below:
+
+
+![Dataset](https://github.com/harshilaNEU/Neural_Networks/blob/Training_Sets/Reference_Images/CIFAR-10_dataset.png)
+
+## To Generate the Prototype
+
+1. Took 10% of the of Train dataset, 1% of each class 'airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck'. So considered 5000 images.
+
+## Steps to generate the prototype of train, validate, test
+
+1. Take clone of repository.
+2. switch to branch "Training_Sets"
+3. Locate jupyter_notebook "Code/Prototype/generate_prototype_cifar_10.ipynb" in Code/Prototype/generate_prototype_cifar_10.ipynb
+4. Run the notebook "generate_prototype_cifar_10.ipynb"
+
+## Downloaded CIFAR-10 dataset
+
+![Original CIFAR-10 dataset](https://github.com/harshilaNEU/Neural_Networks/blob/Training_Sets/Reference_Images/Downloaded_CIFAR-10_data.png)
+
+## Output of Generated Prototype
+
+![Generated_Prototype](https://github.com/harshilaNEU/Neural_Networks/blob/Training_Sets/Reference_Images/output.png)
+
+
+![Classwise_prototype_generation](https://github.com/harshilaNEU/Neural_Networks/blob/Training_Sets/Reference_Images/internal_folder_structure.png)
+
+
+
 
