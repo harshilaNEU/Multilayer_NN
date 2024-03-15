@@ -18,3 +18,8 @@ one (last) layer 5 with one neuron and Sigmoid activation function
 ## Task 2: Develop a traning set
 
 Choose objects to train the network and develop a training set.
+
+## Pre-requisite
+
+1. Visual Studio Code
+2. Python
