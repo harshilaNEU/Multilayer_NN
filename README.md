@@ -63,4 +63,11 @@ Uploaded all training set images in prototype_generated.zip
 
 
 
+## Task 3: GitHub
+
+Repository : Multilayer_NN
+
+HTTPS: https://github.com/harshilaNEU/Multilayer_NN.git
+
+SSH: git@github.com:harshilaNEU/Multilayer_NN.git
 
