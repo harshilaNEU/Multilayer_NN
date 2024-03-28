@@ -1,4 +1,5 @@
 # Lab 1 – Develop a Multilayer (Deep) Neural Network
+# Lab 2 – Training the Multilayer Neural Network
 
 ## Pre-requisite
 
@@ -19,6 +20,10 @@ layer 1 with 10 neurons and ReLU activation function
 layers 2 and 3 (2 layers shown as power 2 in the spec) with 8 neurons per each layer and ReLU activation function
 layer 4 with 4 neurons and ReLU activation function
 one (last) layer 5 with one neuron and Sigmoid activation function
+
+## Task 2: Train the Multilayer Neural Network
+
+Train your neural network using your training set both developed in Lab 1.
 
 ## OUTPUT
 
