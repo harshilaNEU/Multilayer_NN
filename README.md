@@ -25,6 +25,8 @@ one (last) layer 5 with one neuron and Sigmoid activation function
 
 Train your neural network using your training set both developed in Lab 1.
 
+**** Check train.ipynb **********
+
 ## OUTPUT
 
 Model: (10/ReLU) – (8/ReLU)² – (4/ReLU) – (1/Sigmoid)
@@ -52,6 +54,12 @@ Sample images from each class of the CIFAR-10 dataset is shown below:
 1. Take clone of repository.
 2. Locate jupyter_notebook "generate_prototype_cifar_10.ipynb"
 3. Run the notebook "generate_prototype_cifar_10.ipynb"
+
+## Steps to train the network Task - 2
+1. Take clone of repository.
+2. Locate jupyter_notebook "generate_prototype_cifar_10.ipynb"
+3. Run the notebook "generate_prototype_cifar_10.ipynb"
+4. Run train.ipynb
 
 ## Downloaded CIFAR-10 dataset
 
