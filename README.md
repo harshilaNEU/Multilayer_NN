@@ -37,6 +37,8 @@ Model: (10/ReLU) – (8/ReLU)² – (4/ReLU) – (1/Sigmoid)
 
 Choose objects to train the network and develop a training set.
 
+*** train.ipynb ****
+
 ## Dataset
 CIFAR-10 is a dataset consisting of 60000, 32×32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images. More details about the datset can be found [here](https://www.cs.toronto.edu/~kriz/cifar.html).
 
