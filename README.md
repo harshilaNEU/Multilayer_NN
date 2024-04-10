@@ -1,5 +1,6 @@
 # Lab 1 – Develop a Multilayer (Deep) Neural Network
 # Lab 2 – Training the Multilayer Neural Network
+# Lab 3 - Tune Your Trained Mulrilayer Neural Network
 
 ## Pre-requisite
 
@@ -26,6 +27,12 @@ one (last) layer 5 with one neuron and Sigmoid activation function
 Train your neural network using your training set both developed in Lab 1.
 
 **** Check train.ipynb **********
+
+## Task 3: Tune your trained (in Lab 2) Multilayer Neural Network
+
+Tune your trained neural network (in Labs 1 and 2) by optimizing its hyperparameters.
+
+**** Check tune.ipynb **********
 
 ## OUTPUT
 
