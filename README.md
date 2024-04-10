@@ -70,6 +70,12 @@ Sample images from each class of the CIFAR-10 dataset is shown below:
 3. Run the notebook "generate_prototype_cifar_10.ipynb"
 4. Run train.ipynb
 
+## Steps to train the network Task - 3
+1. Take clone of repository.
+2. Locate jupyter_notebook "generate_prototype_cifar_10.ipynb"
+3. Run the notebook "generate_prototype_cifar_10.ipynb"
+4. Run tune.ipynb
+
 ## Downloaded CIFAR-10 dataset
 
 ![Original CIFAR-10 dataset](https://github.com/harshilaNEU/Neural_Networks/blob/Training_Sets/Reference_Images/Downloaded_CIFAR-10_data.png)
